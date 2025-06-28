@@ -1,7 +1,5 @@
 # Evolua seu terminal com Oh My Zsh + Plugins
 
-Created by: Wesley Dos Santos Guimaraes
-
 Todos nós já conhecíamos o `bash` como nosso antigo terminal e com a chegada do `zsh`, virou nossa primeira opção nos macOS, nos dando mais liberdade de configuração no terminal.
 
 ## Oh My Zsh
